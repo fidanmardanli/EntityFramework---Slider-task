@@ -1,0 +1,23 @@
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.AssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.RazorAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.RazorAssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\staticwebassets\EntityFramework - Slider task.StaticWebAssets.Manifest.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.TagHelpers.input.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.TagHelpers.output.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.RazorCoreGenerate.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.RazorTargetAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.RazorTargetAssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.dll
+C:\Users\marda\Desktop\Code\asp.net\EntityFramework - Slider task\EntityFramework - Slider task\EntityFramework - Slider task\obj\Debug\netcoreapp3.1\EntityFramework - Slider task.pdb
